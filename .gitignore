@@ -1,0 +1,16 @@
+# Dossiers Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dossiers de build
+bin/
+obj/
+
+# Autres
+*.log
+*.tmp
+*.bak
+*.db
